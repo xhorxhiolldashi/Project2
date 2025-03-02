@@ -1,2 +1,9 @@
-1. What do you think the onclick does?
-Looks like it redirects you onto another page upon clicking.
+1. Looks like it redirects you onto another page upon clicking.
+
+5. a. ID's are one per element or else the HTML doesn't validate. It also just makes sense to distinctify each unique button
+with its own unique ID.
+
+5. b. Simply assigning the input buttons the same name, in this case, "character", makes it so that only one of that name can be
+selected.
+
+5. c. Assigning the Aria button with Eldrin's label, for example, makes it so clicking the button that shows Eldrin's summary is actually going to misleadingly assign you the character Aria.

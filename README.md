@@ -1,11 +1,2 @@
-1. Looks like it redirects you onto another page upon clicking.
-
-2. a. ID's are one per element or else the HTML doesn't validate. It also just makes sense to distinctify each unique button
-with its own unique ID.
-
-2. b. Simply assigning the input buttons the same name, in this case, "character", makes it so that only one of that name can be
-selected.
-
-2. c. Assigning the Aria button with Eldrin's label, for example, makes it so clicking the button that shows Eldrin's summary is actually going to misleadingly assign you the character Aria.
-
-3. I imagine a dropdown would only let you select one whereas a checkbox lets you pick whatever you want. The only downside I can think of is that I could pick all the supplies without limitation, but I imagine radio is a better solution than dropdown in that case, anyway.
+This is project 2 of CSIS390, my Web App Development lab. It's like an RPG game made in HTML using JS. Following along using
+https://nchaudhari.notion.site/Project-2-Quest-into-the-Wilderness-Navigating-the-DOMain-395bbaf7344c4c2eaf588ee154c227c5.
